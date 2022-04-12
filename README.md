@@ -1,7 +1,7 @@
 # Intermediate_Python
 
 This repository consists of the files that I have been using to revise python. 
-The learning material in this repository are based on the interactive course from DataCamp which can be found in:
+The learning material in this repository are based on the interactive course from DataCamp which can be found in the following link below:
 
 
 
